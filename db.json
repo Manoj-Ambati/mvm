@@ -1,0 +1,17 @@
+{
+  "user": [
+    {
+      "firstName": "firstName",
+      "lastName": "lastName",
+      "phone": "999999999",
+      "email": "abc@gmail.com"
+    },
+    {
+      "firstName": "fname",
+      "lastName": "lname",
+      "phone": "+919099999999",
+      "email": "abcd@gmai.com",
+      "id": 1687107248750
+    }
+  ]
+}
